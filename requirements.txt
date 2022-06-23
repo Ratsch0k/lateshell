@@ -1,0 +1,12 @@
+certifi==2022.6.15
+charset-normalizer==2.0.12
+colorama==0.4.5
+halo==0.0.31
+idna==3.3
+log-symbols==0.0.14
+Pillow==9.1.1
+requests==2.28.0
+six==1.16.0
+spinners==0.0.24
+termcolor==1.1.0
+urllib3==1.26.9
